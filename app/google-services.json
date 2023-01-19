@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "817163520767",
+    "project_id": "chat-app-1311f",
+    "storage_bucket": "chat-app-1311f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817163520767:android:c50b86b2bcaa5eb1381aca",
+        "android_client_info": {
+          "package_name": "com.nextsuntech.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817163520767-l3u09brls6hl7jqcctqhotfa5u4bj0pl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiOtQFun3_ZgubfQ5no_fLxAxK47eZSmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817163520767-l3u09brls6hl7jqcctqhotfa5u4bj0pl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
